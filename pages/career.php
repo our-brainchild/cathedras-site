@@ -1,5 +1,5 @@
 <?php
-    include_once "/include/blocks/mainhead.php";
+    include_once "../include/blocks/mainhead.php";
 ?>
 
   <section id="title" class="emerald">
@@ -184,5 +184,5 @@
   <!-- /Career -->
 
 <?php
-    include_once "/include/blocks/mainhead.php";
+    include_once "../include/blocks/mainhead.php";
 ?>

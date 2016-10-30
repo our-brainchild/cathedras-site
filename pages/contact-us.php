@@ -1,5 +1,5 @@
 <?php
-    include_once "/include/blocks/mainhead.php";
+    include_once "../include/blocks/mainhead.php";
 ?>
 
 
@@ -55,5 +55,5 @@
     </section><!--/#contact-page-->
 
 <?php
-    include_once "/include/blocks/mainfooter.php";
+    include_once "../include/blocks/mainfooter.php";
 ?>

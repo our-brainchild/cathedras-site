@@ -1,5 +1,5 @@
 <?php
-    include_once "/include/blocks/mainhead.php";
+    include_once "../include/blocks/mainhead.php";
 ?>
 
 <section id="error" class="container">
@@ -9,5 +9,5 @@
 </section><!--/#error-->
 
 <?php
-  include_once '/include/blocks/mainfooter.php';
+  include_once '../include/blocks/mainfooter.php';
 ?>
