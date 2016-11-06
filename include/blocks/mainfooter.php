@@ -2,30 +2,30 @@
       <div class="container">
           <div class="row">
               <div class="col-md-3 col-sm-6">
-                  <h4>About Us</h4>
+                  <h4>О Нас</h4>
                   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</p>
                   <p>Pellentesque habitant morbi tristique senectus.</p>
               </div><!--/.col-md-3-->
 
               <div class="col-md-3 col-sm-6">
-                  <h4>Company</h4>
+                  <h4>Кафедра</h4>
                   <div>
                       <ul class="arrow">
-                          <li><a href="#">The Company</a></li>
-                          <li><a href="#">Our Team</a></li>
-                          <li><a href="#">Our Partners</a></li>
-                          <li><a href="#">Our Services</a></li>
-                          <li><a href="#">Faq</a></li>
-                          <li><a href="#">Conatct Us</a></li>
-                          <li><a href="#">Privacy Policy</a></li>
-                          <li><a href="#">Terms of Use</a></li>
-                          <li><a href="#">Copyright</a></li>
+                          <li><a href="#">О кафедре</a></li>
+                          <li><a href="#">Сотрудники</a></li>
+                          <li><a href="#">Партнеры</a></li>
+                          <li><a href="#">Публикации</a></li>
+                          <li><a href="#">Помощь</a></li>
+                          <li><a href="#">Контакты</a></li>
+                          <li><a href="#">Наши достижения</a></li>
+                          <li><a href="#">Проекты</a></li>
+                          <li><a href="#">Копирайт</a></li>
                       </ul>
                   </div>
               </div><!--/.col-md-3-->
 
               <div class="col-md-3 col-sm-6">
-                  <h4>Latest Blog</h4>
+                  <h4>Последнии Новости</h4>
                   <div>
                       <div class="media">
                           <div class="pull-left">
@@ -58,19 +58,19 @@
               </div><!--/.col-md-3-->
 
               <div class="col-md-3 col-sm-6">
-                  <h4>Address</h4>
+                  <h4>Адресс</h4>
                   <address>
-                      <strong>Twitter, Inc.</strong><br>
+                      <strong>СевГУ,ИТиКС</strong><br>
                       795 Folsom Ave, Suite 600<br>
                       San Francisco, CA 94107<br>
-                      <abbr title="Phone">P:</abbr> (123) 456-7890
+                      <abbr title="Телефон">Т:</abbr> +7 (978) 036-7239
                   </address>
-                  <h4>Newsletter</h4>
+                  <h4>Подписка на новости</h4>
                   <form role="form">
                       <div class="input-group">
-                          <input type="text" class="form-control" autocomplete="off" placeholder="Enter your email">
+                          <input type="text" class="form-control" autocomplete="off" placeholder="Введите ваш Email">
                           <span class="input-group-btn">
-                              <button class="btn btn-danger" type="button">Go!</button>
+                              <button class="btn btn-danger" type="button">Да!</button>
                           </span>
                       </div>
                   </form>
@@ -83,14 +83,14 @@
       <div class="container">
           <div class="row">
               <div class="col-sm-6">
-                  &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                  &copy; 2016 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
               </div>
               <div class="col-sm-6">
                   <ul class="pull-right">
-                      <li><a href="#">Home</a></li>
-                      <li><a href="#">About Us</a></li>
-                      <li><a href="#">Faq</a></li>
-                      <li><a href="#">Contact Us</a></li>
+                      <li><a href="#">Главная</a></li>
+                      <li><a href="#">О нас</a></li>
+                      <li><a href="#">Помощь</a></li>
+                      <li><a href="#">Контакты</a></li>
                       <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                   </ul>
               </div>

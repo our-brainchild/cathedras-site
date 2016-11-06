@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="description" content="">
       <meta name="author" content="">
-      <title>404 | Flat Theme</title>
+      <title>Главная | Кафедра ИТИКС</title>
       <link href="/include/css/bootstrap.min.css" rel="stylesheet">
       <link href="/include/css/font-awesome.min.css" rel="stylesheet">
       <link href="/include/css/prettyPhoto.css" rel="stylesheet">
@@ -31,30 +31,35 @@
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                   </button>
-                  <a class="navbar-brand" href="index.html"><img src="/include/images/logo.png" alt="logo"></a>
+                  <a class="navbar-brand" href="index.html"><img src="/include/images/logo.png" style="" alt="logo"></a>
               </div>
               <div class="collapse navbar-collapse">
                   <ul class="nav navbar-nav navbar-right">
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="about-us.html">About Us</a></li>
-                      <li><a href="services.html">Services</a></li>
-                      <li><a href="portfolio.html">Portfolio</a></li>
+                      <li><a href="index.html">Главная</a></li>
                       <li class="dropdown active">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="icon-angle-down"></i></a>
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Научная работа <i class="icon-angle-down"></i></a>
                           <ul class="dropdown-menu">
-                              <li><a href="career.html">Career</a></li>
-                              <li><a href="blog-item.html">Blog Single</a></li>
-                              <li><a href="faq.html">FAQ</a></li>
-                              <li><a href="pricing.html">Pricing</a></li>
-                              <li class="active"><a href="404.html">404</a></li>
-                              <li><a href="registration.html">Registration</a></li>
+                              <li><a href="career.html">Направления деятельсности</a></li>
+                              <li><a href="blog-item.html">Гранты</a></li>
                               <li class="divider"></li>
-                              <li><a href="privacy.html">Privacy Policy</a></li>
-                              <li><a href="terms.html">Terms of Use</a></li>
+                              <li><a href="faq.html">Проекты</a></li>
+                              <li><a href="pricing.html">Публикации</a></li>
+                              <li><a href="404.html">Мероприятия</a></li>
                           </ul>
                       </li>
-                      <li><a href="blog.html">Blog</a></li>
-                      <li><a href="contact-us.html">Contact</a></li>
+                      <li class="dropdown active">
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Образование <i class="icon-angle-down"></i></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="career.html">Базовое</a></li>
+                              <li><a href="blog-item.html">Дополнительное</a></li>
+                              <li class="divider"></li>
+                              <li><a href="faq.html">Учебные пособия</a></li>
+                              <li><a href="pricing.html">Наши достижения</a></li>
+                          </ul>
+                      </li>
+                      <li><a href="blog.html">Сотрудники</a></li>
+                      <li><a href="contact-us.html">Контакты</a></li>
+                      <li><a href="contact-us.html">Наши увлечения</a></li>
                   </ul>
               </div>
           </div>
