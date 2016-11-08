@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><!--head-->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="description" content="">
@@ -31,35 +31,35 @@
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                   </button>
-                  <a class="navbar-brand" href="index.html"><img src="/include/images/logo.png" style="" alt="logo"></a>
+                  <a class="navbar-brand" href="index.php"><img src="/include/images/logo.png" style="" alt="logo"></a>
               </div>
               <div class="collapse navbar-collapse">
                   <ul class="nav navbar-nav navbar-right">
-                      <li><a href="index.html">Главная</a></li>
-                      <li class="dropdown active">
+                      <li><a href="/index.php">Главная</a></li>
+                      <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Научная работа <i class="icon-angle-down"></i></a>
                           <ul class="dropdown-menu">
-                              <li><a href="career.html">Направления деятельсности</a></li>
-                              <li><a href="blog-item.html">Гранты</a></li>
+                              <li><a href="/pages/activity.php">Направления деятельсности</a></li>
+                              <li><a href="/pages/grants.php">Гранты</a></li>
                               <li class="divider"></li>
-                              <li><a href="faq.html">Проекты</a></li>
-                              <li><a href="pricing.html">Публикации</a></li>
-                              <li><a href="404.html">Мероприятия</a></li>
+                              <li><a href="/pages/projects.php">Проекты</a></li>
+                              <li><a href="/pages/publication.php">Публикации</a></li>
+                              <li><a href="/pages/events.php">Мероприятия</a></li>
                           </ul>
                       </li>
-                      <li class="dropdown active">
+                      <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Образование <i class="icon-angle-down"></i></a>
                           <ul class="dropdown-menu">
-                              <li><a href="career.html">Базовое</a></li>
-                              <li><a href="blog-item.html">Дополнительное</a></li>
+                              <li><a href="/pages/foundation.php">Базовое</a></li>
+                              <li><a href="/pages/additionally-edu.php">Дополнительное</a></li>
                               <li class="divider"></li>
-                              <li><a href="faq.html">Учебные пособия</a></li>
-                              <li><a href="pricing.html">Наши достижения</a></li>
+                              <li><a href="/pages/tutorials.php">Учебные пособия</a></li>
+                              <li><a href="/pages/achievements.php">Наши достижения</a></li>
                           </ul>
                       </li>
-                      <li><a href="blog.html">Сотрудники</a></li>
-                      <li><a href="contact-us.html">Контакты</a></li>
-                      <li><a href="contact-us.html">Наши увлечения</a></li>
+                      <li><a href="/pages/employees.php">Сотрудники</a></li>
+                      <li><a href="/pages/contact-us.php">Контакты</a></li>
+                      <li><a href="/pages/pastime.php">Наши увлечения</a></li>
                   </ul>
               </div>
           </div>
