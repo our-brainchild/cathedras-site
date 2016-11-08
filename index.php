@@ -66,51 +66,52 @@
         </a>
     </section><!--/#main-slider-->
 
-    <section id="services" class="emerald">
+    <section id="services" class="emerald"><!--#news-->
         <div class="container">
             <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="media">
-                        <div class="pull-left">
-                            <i class="icon-twitter icon-md"></i>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">Twitter Marketing</h3>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                        </div>
-                    </div>
-                </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-6">
-                    <div class="media">
-                        <div class="pull-left">
-                            <i class="icon-facebook icon-md"></i>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">Facebook Marketing</h3>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                        </div>
-                    </div>
-                </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-6">
-                    <div class="media">
-                        <div class="pull-left">
-                            <i class="icon-google-plus icon-md"></i>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">Google Plus Marketing</h3>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                        </div>
-                    </div>
-                </div><!--/.col-md-4-->
+<!--                <div class="col-md-4 col-sm-6">-->
+<!--                    <div class="media">-->
+<!--                        <div class="pull-left">-->
+<!--                            <i class="icon-twitter icon-md"></i>-->
+<!--                        </div>-->
+<!--                        <div class="media-body">-->
+<!--                            <h3 class="media-heading">Twitter Marketing</h3>-->
+<!--                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div><!--/.col-md-4-->
+<!--                <div class="col-md-4 col-sm-6">-->
+<!--                    <div class="media">-->
+<!--                        <div class="pull-left">-->
+<!--                            <i class="icon-facebook icon-md"></i>-->
+<!--                        </div>-->
+<!--                        <div class="media-body">-->
+<!--                            <h3 class="media-heading">Facebook Marketing</h3>-->
+<!--                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div><!--/.col-md-4-->
+<!--                <div class="col-md-4 col-sm-6">-->
+<!--                    <div class="media">-->
+<!--                        <div class="pull-left">-->
+<!--                            <i class="icon-google-plus icon-md"></i>-->
+<!--                        </div>-->
+<!--                        <div class="media-body">-->
+<!--                            <h3 class="media-heading">Google Plus Marketing</h3>-->
+<!--                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div><!--/.col-md-4-->
+                <b>NEWS!</b>
             </div>
         </div>
-    </section><!--/#services-->
+    </section><!--/#news-->
 
-    <section id="recent-works">
+    <section id="recent-works"><!--#next-events-->
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <h3>Our Latest Project</h3>
+                    <h3>Ближайшие мероприятия</h3>
                     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
                     <div class="btn-group">
                         <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="icon-angle-left"></i></a>
@@ -126,12 +127,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item1.png" alt="">
                                                 <h5>
                                                     Nova - Corporate site template
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -139,12 +140,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item3.png" alt="">
                                                 <h5>
                                                     Fornax - Apps site template
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -152,12 +153,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item2.png" alt="">
                                                 <h5>
                                                     Flat Theme - Business Theme
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -169,12 +170,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item2.png" alt="">
                                                 <h5>
                                                     Flat Theme - Business Theme
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -182,12 +183,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item1.png" alt="">
                                                 <h5>
                                                     Nova - Corporate site template
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -195,12 +196,12 @@
                                     <div class="col-xs-4">
                                         <div class="portfolio-item">
                                             <div class="item-inner">
-                                                <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
+                                                <img class="img-responsive" src="include/images/portfolio/recent/item3.png" alt="">
                                                 <h5>
                                                     Fornax - Apps site template
                                                 </h5>
                                                 <div class="overlay">
-                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                                                    <a class="preview btn btn-danger" title="Malesuada fames ac turpis egestas" href="include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -212,14 +213,14 @@
                 </div>
             </div><!--/.row-->
         </div>
-    </section><!--/#recent-works-->
+    </section><!--/#next-events-->
 
-    <section id="testimonial" class="alizarin">
+    <section id="testimonial" class="alizarin"><!--partners-->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center">
-                        <h2>What our clients say</h2>
+                        <h2>Патнеры</h2>
                         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
                     </div>
                     <div class="gap"></div>
@@ -248,8 +249,70 @@
                 </div>
             </div>
         </div>
-    </section><!--/#testimonial-->
-
+    </section><!--/#partners-->
+<section id="recent-works"><!--#next-events-->
+    <div class="container">
+        <div class="row">
+            <h3 style="text-align: center"><b>Наши разработки</b></h3>
+            <ul class="portfolio-items col-3">
+                <li class="portfolio-item apps">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item1.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+                <li class="portfolio-item joomla bootstrap">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item2.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item2.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+                <li class="portfolio-item bootstrap wordpress">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item3.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item3.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+                <li class="portfolio-item joomla wordpress apps">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item4.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item4.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+                <li class="portfolio-item joomla html">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item5.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item5.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+                <li class="portfolio-item wordpress html">
+                    <div class="item-inner">
+                        <img src="/include/images/portfolio/thumb/item6.jpg" alt="">
+                        <h5>Lorem ipsum dolor sit amet</h5>
+                        <div class="overlay">
+                            <a class="preview btn btn-danger" href="/include/images/portfolio/full/item6.jpg" rel="prettyPhoto"><i class="icon-eye-open"></i></a>
+                        </div>
+                    </div>
+                </li><!--/.portfolio-item-->
+            </ul>
+        </div>
+    </div>
+</section>
 <?php
     include_once "/include/blocks/mainfooter.php";
 ?>

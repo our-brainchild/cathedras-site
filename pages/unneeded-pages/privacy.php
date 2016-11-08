@@ -1,5 +1,5 @@
 <?php
-    include_once "../include/blocks/mainhead.php";
+    include_once "../../include/blocks/mainhead.php";
 ?>
 
     <section id="title" class="emerald">
@@ -45,5 +45,5 @@
     </section><!--/#privacy-policy-->
 
 <?php
-    include_once "../include/blocks/mainfooter.php";
+    include_once "../../include/blocks/mainfooter.php";
 ?>

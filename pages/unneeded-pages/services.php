@@ -1,5 +1,5 @@
 <?php
-    include_once "../include/blocks/mainhead.php";
+    include_once "../../include/blocks/mainhead.php";
 ?>
     <section id="title" class="emerald">
         <div class="container">
@@ -127,5 +127,5 @@
     </section><!--/#services-->
 
 <?php
-    include_once "../include/blocks/mainfooter.php";
+    include_once "../../include/blocks/mainfooter.php";
 ?>
